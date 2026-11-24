@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="./ascii-me.png" width="320" alt="Ismail ASCII portrait"/>
+<img src="./WhatsApp Image 2026-11-25 at 1.07.09 AM.jpeg" width="320" alt="Ismail ASCII portrait"/>
 
 <br/><br/>
 
