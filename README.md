@@ -7,9 +7,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./ascii-me.png">
-  <source media="(prefers-color-scheme: light)" srcset="./ascii-me-light.png">
-  <img src="./me.png" width="320" alt="Ismail ASCII portrait"/>
+  <source media="(prefers-color-scheme: dark)" srcset="me.png">
+  <source media="(prefers-color-scheme: light)" srcset="me.png">
+  <img src="me.png" width="320" alt="Ismail ASCII portrait"/>
 </picture>
 
 <br/><br/>
