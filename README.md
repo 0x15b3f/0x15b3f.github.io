@@ -29,7 +29,7 @@
 - 🚀 My projects are in my [repositories](https://github.com/0x15b3f?tab=repositories)
 - 💬 Ask me about **PHP, Laravel, JavaScript**
 - 📫 Reach me: **0x15b3f@gmail.com**
-- 📄 Experience section coming soon
+- 📄 Experience 6 years in freelance and full-time works
 
 ---
 
