@@ -4,7 +4,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ismail;Backend+Developer+from+Egypt;PHP+%7C+Laravel+%7C+JavaScript;Building+clean+and+scalable+apps" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
+
+<img src="./ascii-me.png" width="320" alt="Ismail ASCII portrait"/>
+
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0x15b3f&label=Profile%20Views&color=6366f1&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/0x15b3f?style=for-the-badge&logo=github&color=6366f1)
