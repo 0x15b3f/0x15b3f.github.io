@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./ascii-me.png">
   <source media="(prefers-color-scheme: light)" srcset="./ascii-me-light.png">
-  <img src="./ascii-me.png" width="320" alt="Ismail ASCII portrait"/>
+  <img src="./WhatsApp Image 2026-11-25 at 1.07.09 AM.jpeg" width="320" alt="Ismail ASCII portrait"/>
 </picture>
 
 <br/><br/>
