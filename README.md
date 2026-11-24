@@ -6,14 +6,18 @@
 
 <br/><br/>
 
-<img src="./WhatsApp Image 2026-11-25 at 1.07.09 AM.jpeg" width="320" alt="Ismail ASCII portrait"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ascii-me.png">
+  <source media="(prefers-color-scheme: light)" srcset="./ascii-me-light.png">
+  <img src="./ascii-me.png" width="320" alt="Ismail ASCII portrait"/>
+</picture>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=0x15b3f&label=Profile%20Views&color=6366f1&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/0x15b3f?style=for-the-badge&logo=github&color=6366f1)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=0x15b3f&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/0x15b3f?style=for-the-badge&logo=github&color=6366f1" alt="Followers"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 
 </div>
 
@@ -33,7 +37,11 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,php,laravel,react,tailwindcss,sass,mysql,fastapi,cpp,webpack,npm,git,github,postman,vscode,phpstorm&perline=10)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,php,laravel,react,tailwindcss,sass,mysql,fastapi,cpp,webpack,npm,git,github,postman,vscode,phpstorm&perline=10&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,php,laravel,react,tailwindcss,sass,mysql,fastapi,cpp,webpack,npm,git,github,postman,vscode,phpstorm&perline=10&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,php,laravel,react,tailwindcss,sass,mysql,fastapi,cpp,webpack,npm,git,github,postman,vscode,phpstorm&perline=10" alt="Skills"/>
+</picture>
 
 </div>
 
@@ -43,20 +51,31 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x15b3f&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x15b3f&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0x15b3f&show_icons=true&theme=radical&count_private=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0x15b3f&show_icons=true&theme=default&count_private=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x15b3f&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0x15b3f&layout=compact&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0x15b3f&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x15b3f&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=0x15b3f&theme=radical&hide_border=true" alt="Streak Stats" width="70%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=0x15b3f&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=0x15b3f&theme=default&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=0x15b3f&theme=radical&hide_border=true" alt="Streak Stats" width="70%"/>
+</picture>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=0x15b3f&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0x15b3f&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=0x15b3f&theme=react-dark&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=0x15b3f&theme=minimal&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x15b3f&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+</picture>
 
 </div>
 
@@ -66,9 +85,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0x15b3f@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0x15b3f@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0x15b3f-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0x15b3f)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201016283173-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201016283173)
+<a href="mailto:0x15b3f@gmail.com"><img src="https://img.shields.io/badge/Email-0x15b3f@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/0x15b3f"><img src="https://img.shields.io/badge/GitHub-0x15b3f-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://wa.me/201016283173"><img src="https://img.shields.io/badge/WhatsApp-+201016283173-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </div>
 
